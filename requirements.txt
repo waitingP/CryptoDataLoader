@@ -1,0 +1,4 @@
+http-request-randomizer>=1.2.3
+beautifulsoup4>=4.8.1
+pymongo>=3.9.0
+
